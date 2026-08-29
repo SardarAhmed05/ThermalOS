@@ -2,7 +2,6 @@ fastapi==0.134.0
 uvicorn==0.34.0
 pydantic==2.10.6
 langchain==0.3.26
-langchain-core==0.3.63
 langchain-community>=0.3.0
 langchain-google-genai==2.1.1
 chromadb==0.5.3
